@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="36" passed="36">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="601" started-at="2017-03-10T15:56:07Z" finished-at="2017-03-10T15:56:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="601" started-at="2017-03-10T15:56:07Z" finished-at="2017-03-10T15:56:07Z">
+      <class name="AccountControllerTest">
+        <test-method status="PASS" signature="prepareLoginInputSource()[pri:0, instance:AccountControllerTest@15eef3d]" name="prepareLoginInputSource" is-config="true" duration-ms="24" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareLoginInputSource -->
+        <test-method status="PASS" signature="prepareSystemAccounts()[pri:0, instance:AccountControllerTest@15eef3d]" name="prepareSystemAccounts" is-config="true" duration-ms="12" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareSystemAccounts -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="13" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="7" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="8" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="5" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="11" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="5" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="5" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="6" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="56" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="3" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="6" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="3" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="5" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="10" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="4" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="3" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="10" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="3" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="2" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="7" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="18" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="54" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="6" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:AccountControllerTest@15eef3d]" name="Login" duration-ms="5" started-at="2017-03-10T17:56:07Z" finished-at="2017-03-10T17:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- AccountControllerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
