@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1494439587 source:c:\users\m\codeblocks workspace\computer graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<commdlg.h>
+	<cstring>
+	<string>
+	<fstream>
+	"BMP.h"
+	"Line.h"
+	"Circle.h"
+	"Curve.h"
+	"Fill.h"
+
+1494110807 source:c:\users\m\codeblocks workspace\computer graphics project\src\line.cpp
+	"Line.h"
+	<windows.h>
+	<iostream>
+	<math.h>
+
+1494099919 c:\users\m\codeblocks workspace\computer graphics project\include\line.h
+	<windows.h>
+
+1494098914 source:c:\users\m\codeblocks workspace\computer graphics project\src\circle.cpp
+	"Circle.h"
+	<windows.h>
+	<iostream>
+	<math.h>
+
+1494090390 c:\users\m\codeblocks workspace\computer graphics project\include\circle.h
+	<windows.h>
+
+1494203467 c:\users\m\codeblocks workspace\computer graphics project\include\curve.h
+	<windows.h>
+	<vector>
+
+1494203495 source:c:\users\m\codeblocks workspace\computer graphics project\src\curve.cpp
+	"Curve.h"
+	<windows.h>
+	<math.h>
+	<iostream>
+	"Line.h"
+
+1494276709 c:\users\m\codeblocks workspace\computer graphics project\include\fill.h
+	<windows.h>
+	<vector>
+
+1494276853 source:c:\users\m\codeblocks workspace\computer graphics project\src\fill.cpp
+	"Fill.h"
+	<windows.h>
+	<math.h>
+	<iostream>
+
+1494439704 c:\users\m\codeblocks workspace\computer graphics project\include\bmp.h
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<commdlg.h>
+	<cstring>
+	<string>
+	<fstream>
+
+1494439874 source:c:\users\m\codeblocks workspace\computer graphics project\src\bmp.cpp
+	"BMP.h"
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<commdlg.h>
+	<cstring>
+	<string>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490129124 source:c:\users\m\desktop\simple digital differential analyser (dda) algorithm\main.cpp
+	<tchar.h>
+	<windows.h>
+

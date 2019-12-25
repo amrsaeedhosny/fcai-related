@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490235040 source:c:\users\m\desktop\circle midpoint (bresenham's) algorithm\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+
